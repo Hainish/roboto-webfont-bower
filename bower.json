@@ -1,0 +1,15 @@
+
+{
+  "name": "roboto-webfont-bower",
+  "version": "0.1.0",
+  "main": [
+    "fonts/*"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

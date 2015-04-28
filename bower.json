@@ -1,9 +1,31 @@
-
 {
   "name": "roboto-webfont-bower",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": [
-    "fonts/*"
+    "fonts/Roboto-BoldItalic-webfont.eot",
+    "fonts/Roboto-BoldItalic-webfont.svg",
+    "fonts/Roboto-BoldItalic-webfont.ttf",
+    "fonts/Roboto-BoldItalic-webfont.woff",
+    "fonts/Roboto-Bold-webfont.eot",
+    "fonts/Roboto-Bold-webfont.svg",
+    "fonts/Roboto-Bold-webfont.ttf",
+    "fonts/Roboto-Bold-webfont.woff",
+    "fonts/Roboto-Italic-webfont.eot",
+    "fonts/Roboto-Italic-webfont.svg",
+    "fonts/Roboto-Italic-webfont.ttf",
+    "fonts/Roboto-Italic-webfont.woff",
+    "fonts/Roboto-Light-webfont.eot",
+    "fonts/Roboto-Light-webfont.svg",
+    "fonts/Roboto-Light-webfont.ttf",
+    "fonts/Roboto-Light-webfont.woff",
+    "fonts/Roboto-Regular-webfont.eot",
+    "fonts/Roboto-Regular-webfont.svg",
+    "fonts/Roboto-Regular-webfont.ttf",
+    "fonts/Roboto-Regular-webfont.woff",
+    "fonts/Roboto-Thin-webfont.eot",
+    "fonts/Roboto-Thin-webfont.svg",
+    "fonts/Roboto-Thin-webfont.ttf",
+    "fonts/Roboto-Thin-webfont.woff"
   ],
   "ignore": [
     "**/.*",
